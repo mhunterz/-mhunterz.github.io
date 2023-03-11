@@ -9,7 +9,7 @@ $gray-200: #e9ecef;
 $gray-300: #dee2e6;
 $gray-400: #ced4da;
 $gray-500: #adb5bd;
-$gray-600: #6c757d;
+$gray-600: #ff6d02;
 $gray-700: #495057;
 $gray-800: #393e46;
 $gray-900: #212529;
@@ -28,9 +28,9 @@ $grays: map-merge((
   "900": $gray-900
 ), $grays);
 
-$blue:    #1e549f;
-$indigo:  #695aa6;
-$purple:  #6f42c1;
+$blue:    #ff6d02;
+$indigo:  #ff6d02;
+$purple:  #ff6d02;
 $pink:    #e83e8c;
 $red:     #ec185d;
 $orange:  #ff6d02;
